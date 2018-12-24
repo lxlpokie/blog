@@ -1,4 +1,4 @@
-# Diaspora
+# Blog
 A WordPress theme
 
 ## 相关说明
